@@ -1,0 +1,5 @@
+A=1 Area
+C=3 Area
+H=1 Area
+S=1 Area
+U=1 Area
